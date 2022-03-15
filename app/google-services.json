@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "966689923672",
+    "firebase_url": "https://mekhraf-2fb8c-default-rtdb.firebaseio.com",
+    "project_id": "mekhraf-2fb8c",
+    "storage_bucket": "mekhraf-2fb8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966689923672:android:95a08769545f2a84d2e02d",
+        "android_client_info": {
+          "package_name": "com.example.mekhraf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966689923672-e3d8i0jhmcgtjrig3kmvtcg3h2n9vh82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwPU2sw_PYYvEdFMb45VajHKGW5Tn_m-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966689923672-e3d8i0jhmcgtjrig3kmvtcg3h2n9vh82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

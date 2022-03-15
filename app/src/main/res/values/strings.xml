@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mekhraf</string>
+    <string-array name="accent">
+        <item> حجازي </item>
+        <item> نجدي </item>
+        <item> حساوي </item>
+    </string-array>
+</resources>
